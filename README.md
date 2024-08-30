@@ -2,6 +2,12 @@
 
 Este projeto contém um dashboard interativo desenvolvido no Power BI para analisar os dados de acidentes em rodovias brasileiras no ano de 2020. As análises foram feitas com base em um conjunto de dados de acidentes fornecido em formato CSV. O objetivo principal é explorar os padrões e insights sobre a ocorrência de acidentes, suas causas, tipos e gravidade, com uma segmentação geográfica e temporal.
 
+## Observação:
+
+Como o dashboard e as bases de dados foram maiores que 35mb, segue abaixo o link para visualização na web
+[Clique para Visualizar](https://app.powerbi.com/view?r=eyJrIjoiYTFkOGI4MjctNzVmZC00ZTlmLThiZmEtZmMwYjBhZGI0MzI4IiwidCI6IjQ2NTYxYzMxLTEzNGEtNDQyNS04NDg5LTUxNjQyODg0NTg5YyJ9)
+
+
 ## Conteúdo do Dashboard
 
 O dashboard foi organizado para fornecer as seguintes análises:
